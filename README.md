@@ -5,6 +5,9 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/19hi22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivwakchaure) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/encrypted2902) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivwakchaure19@gmail.com) 
 
+## <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="25"  style="vertical-align: middle;"/>&nbsp; VS code Extensions:
+[📂 Jar Explorer](https://marketplace.visualstudio.com/items?itemName=shivwakchaure.jar-explorer)
+
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />

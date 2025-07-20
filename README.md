@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Full-Stack Java Developer at TCS, specializing in Java, Spring Boot, and web development. <br><br>🌱Currently, I'm exploring React, Node.js, Firebase Cloud, AI, and Machine Learning to expand my skill set.<br><br>🚀 Passionate about coding, problem-solving, and building scalable applications!
+🔭 I'm a Full Stack Java Developer at TCS, specializing in Java, Spring Boot, and web development. <br><br>🌱Currently, I'm exploring React, Node.js, Firebase Cloud, AI, and Machine Learning to expand my skill set.<br><br>🚀 Passionate about coding, problem-solving, and building scalable applications!
 
 
 ## 🌐 Socials:
